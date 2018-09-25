@@ -52,7 +52,7 @@ We have 2 delegation method for tracing your location and let you know if has er
 func tracingLocation(currentLocation: CLLocation){}
 func tracingLocationDidFailWithError(error: NSError) {} 
 ```
-## Example Appication : Tracing
+## Example Application : Tracing
 This example app uses location services in a potentially nonobvious way while running in the foreground or the background. 
 You can see how to use in example application in this repository ... Good luck, Have fun :P
 
